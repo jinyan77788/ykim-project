@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="detail">
     <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <socketTest></socketTest>
@@ -12,7 +12,7 @@
 import socketTest from '@/components/socketTest.vue'
 
 export default {
-  name: 'about',
+  name: 'detail',
   components: {
     // HelloWorld
     socketTest
