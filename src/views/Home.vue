@@ -1,9 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    bbb
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    branch1
   </div>
 </template>
 
